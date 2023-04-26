@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">TravelAgencyApp</string>
+    <string name="ikos_aria">IKOS ARIA</string>
+    <string name="hotel_logo">Hotel logo</string>
+    <string name="suburban_road_kefalos_kos_greece_kefalos_85301_greece">Suburban Road Kefalos, Kos, Greece, Kefalos, 85301, Greece</string>
+    <string name="_600">600€</string>
+    <string name="textview">TextView</string>
+    <string name="imagen_logo">Imagen Logo</string>
+    <string name="proceed_with_your_purchase">Proceed with your purchase</string>
+    <string name="cancel">Cancel</string>
+    <string name="buy">Buy</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="look_up">Look up</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="account">Account</string>
+    <string name="home">Home</string>
+    <string name="bookings">Bookings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

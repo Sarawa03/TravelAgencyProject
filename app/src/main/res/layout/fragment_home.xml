@@ -5,40 +5,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    tools:context=".ui.view.MainActivity"
     android:background="@color/background_color">
 
-
-
     <Button
-        android:id="@+id/btnLogIn"
+        android:id="@+id/btnLookUp"
         android:layout_width="304dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:backgroundTint="@color/button_color"
-        android:text="@string/log_in"
+        android:text="@string/look_up"
         android:textColor="@color/button_text_color"
-        app:layout_constraintBottom_toTopOf="@id/btnSignUp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.514"
-        app:layout_constraintStart_toStartOf="parent"
-
-        android:layout_marginBottom="10dp"
-
-        />
-    <Button
-        android:id="@+id/btnSignUp"
-        android:layout_width="304dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/background_color"
-        android:text="@string/sign_up"
-        android:textColor="@color/text_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.514"
         app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginBottom="10dp"
-        />
+        android:layout_marginBottom="10dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
