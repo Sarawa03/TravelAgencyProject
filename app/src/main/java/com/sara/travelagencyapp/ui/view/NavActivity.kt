@@ -7,7 +7,9 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.sara.travelagencyapp.R
 import com.sara.travelagencyapp.databinding.ActivityNavBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class NavActivity : AppCompatActivity() {
 
     private lateinit var navController: NavController
